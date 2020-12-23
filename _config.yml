@@ -11,13 +11,7 @@ author: Natt
 language: en
 timezone: ''
 
-# Category & Tag
-default_category: uncategorized
-category_map:
-	编程: programming
-	生活: life
-	其他: other
-tag_map:
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -77,6 +71,9 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+	编程: programming
+	生活: life
+	其他: other
 tag_map:
 
 # Metadata elements
