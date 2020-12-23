@@ -1,9 +1,8 @@
 ---
 title: 开篇说明  
-date: 2020-12-23 15:05:34
+date: 2020-12-22 15:05:34
 categories:
-- WordPress
-- 开篇
+- WordPress，开篇
 ---  
 
 
