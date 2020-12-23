@@ -1,6 +1,10 @@
 ---
 title: 开篇说明
----
+---  
+wordcount(post.content)
+min2read(post.content)
+
+
 之前一直在一个 self-host 的 WordPress 上更新blog，然鹅慢慢的我发现self-host blog 惰性真的强。后来工作中接触了 git+atom 的协作方式，这样的协作确实很舒适。于是在20201223今天更新了 self-host blog 的后台编辑器，使其适应markdown，同时按教程安装了 Hexo 作为一个完全开源的基于 Markdown 的书写blog.   
 
 ##### 后续的更新路径是：  
