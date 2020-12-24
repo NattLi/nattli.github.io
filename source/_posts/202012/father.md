@@ -9,7 +9,7 @@ tags:
 
 #### Fathering a Child 
 
-![LCCC](/image/lcc1.jpg)
+![LCC](http://www.natt.cc/wp-content/uploads/2020/12/lcc1-1024x640.jpg)
 
 其实这个话题一年之前就想来聊了,然而总陷于再琢磨琢磨也许更清楚和妈的我似乎又忘了一点点切实的感受之间。近期工作越来越不饱和，那么就趁年底年初这个容易让人多想的时间点来回顾一下过去的这一年，初为人父的这一年。
 
