@@ -1,0 +1,19 @@
+---
+title: Banner Slider
+id: '6298'
+tags: []
+categories:
+  - - uncategorized
+comments: false
+date: 2015-08-13 00:13:28
+---
+
+\[vc\_row css=".vc\_custom\_1440506403976{padding-top: 49px !important;}"\]\[vc\_column width="1/2"\]\[vc\_column\_text\]
+
+#### Banner Slider
+
+\[/vc\_column\_text\]\[vc\_empty\_space height="15px"\]\[/vc\_column\]\[vc\_column width="1/2"\]\[vc\_column\_text\] Responsive slider with [Banner](http://savoy.nordicmade.com/elements/banners/) elements. Touch and CSS3 supported. \[/vc\_column\_text\]\[vc\_empty\_space height="18px"\]\[vc\_column\_text\] Next element: [Buttons](#) \[/vc\_column\_text\]\[/vc\_column\]\[/vc\_row\]\[vc\_row css=".vc\_custom\_1440778205274{padding-bottom: 46px !important;}"\]\[vc\_column width="1/2"\]\[vc\_empty\_space height="38px"\]\[vc\_separator border\_width="2" accent\_color="#e0e0e0"\]\[/vc\_column\]\[vc\_column width="1/2" offset="vc\_hidden-xs"\]\[vc\_empty\_space height="38px"\]\[vc\_separator border\_width="2" accent\_color="#e0e0e0"\]\[/vc\_column\]\[/vc\_row\]\[vc\_row css=".vc\_custom\_1437064830602{padding-bottom: 30px !important;}"\]\[vc\_column\]\[vc\_column\_text\]
+
+###### Used in combination with the Banner element. Has settings for arrows, pagination, infinite-loop, autoplay, image-type, text-size/alignment/color, background-color and more.
+
+\[/vc\_column\_text\]\[vc\_empty\_space height="46px"\]\[nm\_banner\_slider pagination="1"\]\[nm\_banner text\_position="h\_left-v\_top" text\_position\_mobile="alt" image\_id="728" alt\_image\_id="727" title="Picto - Minimalist Wall Clock" text\_width="32" subtitle="Artisan lo-fi single-origin coffee polaroid swag." text\_padding="5"\]\[nm\_banner text\_position="h\_left-v\_top" text\_position\_mobile="alt" image\_id="728" alt\_image\_id="727" title="Bamboo Gradient Basket" text\_width="35" subtitle="DIY denim cliche mixtape quinoa actually echo park." text\_padding="5"\]\[/nm\_banner\_slider\]\[/vc\_column\]\[/vc\_row\]\[vc\_row css=".vc\_custom\_1437053145294{padding-bottom: 9px !important;}"\]\[vc\_column width="1/2"\]\[nm\_banner\_slider pagination="1" infinite="1"\]\[nm\_banner text\_position="h\_left-v\_top" image\_type="css" image\_id="727" height="280" title="Chairs & Tables" text\_padding="5"\]\[nm\_banner text\_position="h\_left-v\_top" image\_type="css" image\_id="727" height="280" title="Lamps & Lanterns" text\_padding="5"\]\[/nm\_banner\_slider\]\[vc\_empty\_space height="46px"\]\[/vc\_column\]\[vc\_column width="1/2"\]\[nm\_banner\_slider infinite="1" autoplay="5000"\]\[nm\_banner text\_color\_scheme="light" text\_alignment="align\_center" text\_animation="fadeInUp" image\_type="css" height="280" background\_color="#dc9814" title="fadeInUp"\]\[nm\_banner text\_color\_scheme="light" text\_alignment="align\_right" text\_animation="fadeInDown" image\_type="css" height="280" background\_color="#4183d7" title="fadeInDown"\]\[nm\_banner text\_color\_scheme="light" text\_position="h\_left-v\_bottom" text\_animation="fadeInLeft" image\_type="css" height="280" background\_color="#00b16a" title="fadeInLeft" text\_padding="7"\]\[nm\_banner text\_position="h\_right-v\_top" text\_alignment="align\_right" text\_animation="fadeInRight" image\_type="css" height="280" background\_color="#eeeeee" title="fadeInRight" text\_padding="7"\]\[nm\_banner text\_color\_scheme="light" text\_position="h\_right-v\_bottom" text\_alignment="align\_right" text\_animation="fadeIn" image\_type="css" height="280" background\_color="#333333" title="fadeIn" text\_padding="7"\]\[/nm\_banner\_slider\]\[vc\_empty\_space height="46px"\]\[/vc\_column\]\[/vc\_row\]

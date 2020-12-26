@@ -1,0 +1,15 @@
+---
+title: Headings & Separators
+id: '446'
+tags: []
+categories:
+  - - uncategorized
+comments: false
+date: 2015-08-13 00:25:46
+---
+
+\[vc\_row css=".vc\_custom\_1440780895312{padding-top: 49px !important;}"\]\[vc\_column width="1/2"\]\[vc\_column\_text\]
+
+#### Headings & Separators
+
+\[/vc\_column\_text\]\[vc\_empty\_space height="15px"\]\[/vc\_column\]\[vc\_column width="1/2"\]\[vc\_column\_text\] Custom headings with Google Fonts and practical content separators. \[/vc\_column\_text\]\[vc\_empty\_space height="18px"\]\[vc\_column\_text\]Next element: [Posts](#)\[/vc\_column\_text\]\[/vc\_column\]\[/vc\_row\]\[vc\_row css=".vc\_custom\_1440780903770{padding-bottom: 49px !important;}"\]\[vc\_column width="1/2"\]\[vc\_empty\_space height="38px"\]\[vc\_separator border\_width="2" accent\_color="#e0e0e0"\]\[/vc\_column\]\[vc\_column width="1/2" offset="vc\_hidden-xs"\]\[vc\_empty\_space height="38px"\]\[vc\_separator border\_width="2" accent\_color="#e0e0e0"\]\[/vc\_column\]\[/vc\_row\]\[vc\_row css=".vc\_custom\_1436787911115{padding-bottom: 55px !important;}"\]\[vc\_column\]\[vc\_custom\_heading text="Heading with Google Fonts" google\_fonts="font\_family:Merriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italicfont\_style:400%20regular%3A400%3Anormal"\]\[vc\_empty\_space height="36px"\]\[vc\_custom\_heading text="Heading with Google Fonts" font\_container="tag:h3text\_align:leftcolor:%23dc9814" google\_fonts="font\_family:Raleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900font\_style:400%20regular%3A400%3Anormal"\]\[vc\_empty\_space height="43px"\]\[vc\_custom\_heading text="Heading with Google Fonts" font\_container="tag:h4text\_align:left" google\_fonts="font\_family:Nothing%20You%20Could%20Do%3Aregularfont\_style:400%20regular%3A400%3Anormal"\]\[vc\_empty\_space height="38px"\]\[vc\_custom\_heading text="Bespoke four loko umami cray bitters. Butcher polaroid next level pug Banksy actually. Forage meditation gentrify, keytar put a bird on it semiotics messenger. Ingerstache flexitarian twee small batch, sartorial stumptown hoodie mlkshk." font\_container="tag:ptext\_align:left" google\_fonts="font\_family:Merriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italicfont\_style:400%20regular%3A400%3Anormal" el\_class="nospacing"\]\[vc\_empty\_space height="33px"\]\[vc\_separator title="Aesthetic" title\_align="separator\_align\_left" border\_width="2"\]\[vc\_empty\_space\]\[vc\_separator title="Banksy" title\_size="medium" accent\_color="#dc9814"\]\[vc\_empty\_space height="36px"\]\[vc\_separator title="Chillwave" title\_size="small" title\_align="separator\_align\_right"\]\[vc\_empty\_space height="45px"\]\[vc\_separator border\_width="2" accent\_color="#dc9814"\]\[vc\_empty\_space height="54px"\]\[vc\_separator\]\[/vc\_column\]\[/vc\_row\]
