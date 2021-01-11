@@ -4,21 +4,20 @@
   <meta charset="utf-8">
   
   
-  <title>开篇说明 | ParadiseCity</title>
+  <title>JIRA 折腾的一点点笔记 | ParadiseCity</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="之前一直在一个 self-host 的 WordPress 上更新 blog，然鹅慢慢的我发现 self-host blog 惰性真的强。后来工作中接触了 git+atom 的协作方式，这样的协作确实很舒适。于是在 20201223 今天更新了 self-host blog 的后台编辑器，使其适应 markdown，同时按教程安装了 Hexo 作为一个完全开源的基于 Markdown 的书写 bl">
+  <meta name="description" content="前两天学习 JIRA 的安装和初始化工作，最终却是也安装成功了，在一个部署在 vultr 的 VPS 上的 JIRA 8.7.1 版本，并且也成功完成了那个啥。 虽然最终决定不再使用 JIRA 了，但过程还是做个简要记录吧。 有用参考整体步骤这个老哥写的比较明确：https:&#x2F;&#x2F;www.9nw.cc&#x2F;post&#x2F;262.html 并且基于宝塔面板的可视化操作会更简单，唯一不同的是，这个老哥装的不是">
 <meta property="og:type" content="article">
-<meta property="og:title" content="开篇说明">
-<meta property="og:url" content="http://blog.natt.cc/202012/1st-post/index.html">
+<meta property="og:title" content="JIRA 折腾的一点点笔记">
+<meta property="og:url" content="http://blog.natt.cc/202101/jira/index.html">
 <meta property="og:site_name" content="ParadiseCity">
-<meta property="og:description" content="之前一直在一个 self-host 的 WordPress 上更新 blog，然鹅慢慢的我发现 self-host blog 惰性真的强。后来工作中接触了 git+atom 的协作方式，这样的协作确实很舒适。于是在 20201223 今天更新了 self-host blog 的后台编辑器，使其适应 markdown，同时按教程安装了 Hexo 作为一个完全开源的基于 Markdown 的书写 bl">
+<meta property="og:description" content="前两天学习 JIRA 的安装和初始化工作，最终却是也安装成功了，在一个部署在 vultr 的 VPS 上的 JIRA 8.7.1 版本，并且也成功完成了那个啥。 虽然最终决定不再使用 JIRA 了，但过程还是做个简要记录吧。 有用参考整体步骤这个老哥写的比较明确：https:&#x2F;&#x2F;www.9nw.cc&#x2F;post&#x2F;262.html 并且基于宝塔面板的可视化操作会更简单，唯一不同的是，这个老哥装的不是">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2020-12-22T15:05:34.000Z">
+<meta property="article:published_time" content="2021-01-11T11:25:01.000Z">
 <meta property="article:modified_time" content="2021-01-11T02:15:57.652Z">
 <meta property="article:author" content="Natt">
-<meta property="article:tag" content="wordpress">
-<meta property="article:tag" content="markdown">
-<meta property="article:tag" content="blog">
+<meta property="article:tag" content="JIRA">
+<meta property="article:tag" content="折腾">
 <meta name="twitter:card" content="summary">
   
     <link rel="alternate" href="/atom.xml" title="ParadiseCity" type="application/atom+xml">
@@ -80,14 +79,14 @@
 </header>
 
       <div class="outer">
-        <section id="main"><article id="post-202012/1st-post" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+        <section id="main"><article id="post-202101/jira" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/202012/1st-post/" class="article-date">
-  <time class="dt-published" datetime="2020-12-22T15:05:34.000Z" itemprop="datePublished">2020-12-22</time>
+    <a href="/202101/jira/" class="article-date">
+  <time class="dt-published" datetime="2021-01-11T11:25:01.000Z" itemprop="datePublished">2021-01-11</time>
 </a>
     
   <div class="article-category">
-    <a class="article-category-link" href="/categories/WordPress/">WordPress</a>
+    <a class="article-category-link" href="/categories/%E6%8A%80%E6%9C%AF/">技术</a>
   </div>
 
   </div>
@@ -98,7 +97,7 @@
         
   
     <h1 class="p-name article-title" itemprop="headline name">
-      开篇说明
+      JIRA 折腾的一点点笔记
     </h1>
   
 
@@ -106,24 +105,32 @@
     
     <div class="e-content article-entry" itemprop="articleBody">
       
-        <p>之前一直在一个 self-host 的 WordPress 上更新 blog，然鹅慢慢的我发现 self-host blog 惰性真的强。后来工作中接触了 git+atom 的协作方式，这样的协作确实很舒适。于是在 20201223 今天更新了 self-host blog 的后台编辑器，使其适应 markdown，同时按教程安装了 Hexo 作为一个完全开源的基于 Markdown 的书写 blog.   </p>
-<h5 id="后续的更新路径是："><a href="#后续的更新路径是：" class="headerlink" title="后续的更新路径是："></a>后续的更新路径是：</h5><ol>
-<li>Atom 中用 markdown 书写，同步至 github 并生成 Hexo 博客.</li>
-<li> 复制文字源码到 WordPress 网站后台的 markdow n 编辑器手动同步</li>
-</ol>
-<h5 id="还没想好的问题"><a href="#还没想好的问题" class="headerlink" title="还没想好的问题"></a>还没想好的问题</h5><ol>
-<li>图片的更新：<br>最后还是用了可能性 1，这样最简便了<br><del>可能性 1 用 self-host 的 VPS 空间</del><br><del>可能性 2 部署阿里云 OSS 或者七牛云作为图床</del></li>
-<li>如何同步之前已有的 WordPress 文字至 Hexo (也许并不会折腾了)</li>
-</ol>
+        <p>前两天学习 JIRA 的安装和初始化工作，最终却是也安装成功了，在一个部署在 vultr 的 VPS 上的 JIRA 8.7.1 版本，并且也成功完成了那个啥。</p>
+<p>虽然最终决定不再使用 JIRA 了，但过程还是做个简要记录吧。</p>
+<h4 id="有用参考"><a href="#有用参考" class="headerlink" title="有用参考"></a>有用参考</h4><p>整体步骤这个老哥写的比较明确：<br><a target="_blank" rel="noopener" href="https://www.9nw.cc/post/262.html">https://www.9nw.cc/post/262.html</a></p>
+<p>并且基于宝塔面板的可视化操作会更简单，唯一不同的是，这个老哥装的不是 JIRA 而是 Confluence，但思路是一致的。</p>
+<p>JIRA 安装的一些步骤和代码，这个老哥写的比较清晰：<br><a target="_blank" rel="noopener" href="https://www.dqzboy.com/jira-8-6%e5%ae%89%e8%a3%85%e4%b8%8e%e7%a0%b4%e8%a7%a3">https://www.dqzboy.com/jira-8-6%e5%ae%89%e8%a3%85%e4%b8%8e%e7%a0%b4%e8%a7%a3</a></p>
+<p>但是数据库初始化和配置等，我都在宝塔面板下完成了，其实没必要这么麻烦的代码（外行不太懂 coding 还是可视化简单些）</p>
+<h4 id="一些遗留笔记"><a href="#一些遗留笔记" class="headerlink" title="一些遗留笔记"></a>一些遗留笔记</h4><figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wget https://product-downloads.atlassian.com/software/jira/atlassian-jira-software-8.6.0-x64.bin</span><br></pre></td></tr></tbody></table></figure>
+<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wget https://downloads.atlassian.com/software/jira/downloads/atlassian-jira-software-8.7.1-x64.bin</span><br></pre></td></tr></tbody></table></figure>
+<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chmod a+x atlassian-jira-software-8.7.1-x64.bin</span><br></pre></td></tr></tbody></table></figure>
+<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./atlassian-jira-software-8.7.1-x64.bin</span><br></pre></td></tr></tbody></table></figure>
+<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wget https://cdn.mysql.com/Downloads/Connector-J/mysql-connector-java-5.1.49.tar.gz</span><br></pre></td></tr></tbody></table></figure>
+<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tar -xzvf mysql-connector-java-5.1.49.tar.gz</span><br></pre></td></tr></tbody></table></figure>
+<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd mysql-connector-java-5.1.49</span><br></pre></td></tr></tbody></table></figure>
+<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cp mysql-connector-java-5.1.49-bin.jar /opt/atlassian/jira/atlassian-jira/WEB-INF/lib</span><br></pre></td></tr></tbody></table></figure>
+<figure class="highlight plain"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sh /opt/atlassian/jira/bin/start-jira.sh</span><br></pre></td></tr></tbody></table></figure>
+
+<p>这些代码不做具体的解释说明了，作为一个自己的存档吧，也许后续也不会再部署 JIRA 了，权当一个折腾记录然后删掉本地记录文件的备份吧。</p>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://blog.natt.cc/202012/1st-post/" data-id="ckjrxq0cm000004w89r7h409l" data-title="开篇说明" class="article-share-link">Share</a>
+      <a data-url="http://blog.natt.cc/202101/jira/" data-id="ckjrxq0d0000504w89wcn9t9y" data-title="JIRA 折腾的一点点笔记" class="article-share-link">Share</a>
       
       
       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/blog/" rel="tag">blog</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/markdown/" rel="tag">markdown</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/wordpress/" rel="tag">wordpress</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JIRA/" rel="tag">JIRA</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%8A%98%E8%85%BE/" rel="tag">折腾</a></li></ul>
 
     </footer>
   </div>
@@ -131,15 +138,11 @@
     
 <nav id="article-nav">
   
-    <a href="/202012/father/" id="article-nav-newer" class="article-nav-link-wrap">
-      <strong class="article-nav-caption">Newer</strong>
-      <div class="article-nav-title">
-        
-          当爹记其一・和想象不一样的地方
-        
-      </div>
-    </a>
   
+    <a href="/202012/2020sum/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">算是 2020 年度总结</div>
+    </a>
   
 </nav>
 
