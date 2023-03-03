@@ -2,7 +2,10 @@
 ### 说明/Note
 这一我在MarkDown环境下写字的 repo，下方内容 fork 自原有repo 的README，出于尊重原作者劳动，予以保留。
 
-This repo is where I write with MarkDown, the following contents are forked from the original repo.
+This repo is where I write with MarkDown, the following contents are forked from the original repo.  
+
+
+如果你一不小心读到这里，本blog地址是：https://words.natt.cc
 
 ---
 
