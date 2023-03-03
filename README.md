@@ -1,3 +1,12 @@
+
+### 说明/Note
+这一我在MarkDown环境下写字的 repo，下方内容 fork 自原有repo 的README，出于尊重原作者劳动，予以保留。
+
+This repo is where I write with MarkDown, the following contents are forked from the original repo.
+
+---
+
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
