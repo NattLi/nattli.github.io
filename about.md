@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Natt
+title: About Natt Blog
 permalink: /about/
 ---
 
