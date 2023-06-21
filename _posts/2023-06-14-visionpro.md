@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      二维生命打开上帝视角
-date:       2023-06-07
+title:      苹果新品VisionPro有点无聊？别急，给新用户一点时间
+date:       2023-06-21
 ---
 
 
@@ -90,3 +90,8 @@ Innovators/创新者, Early Adopters/早期接受者, Early Majority/早期大�
 而对于交互设计师来说，Vision Pro 无疑是一个好的消息，毕竟给沉寂多年的交互载体打开了全新的天地。
 
 那，对 Vision Pro 你有什么期待？要不要投身全新的交互天地，现在上车出国读个交互设计？
+
+
+---
+
+最好，好奇果子会怎么去解决 Vision Pro 的发型兼容问题 :P
