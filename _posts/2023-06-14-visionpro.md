@@ -63,6 +63,7 @@ Innovators/创新者, Early Adopters/早期接受者, Early Majority/早期大�
 
 ![Vision Pro](/images/202306/visionpro-3.png)
 
+
 目前苹果官网对 Vision Pro 的介绍仅限于这个硬件的功能，但作为一个产品设计的流程，终点永远不会是功能。
 
 从硬件到产品，仍需要一个过程，而上述阶段中我们聊到的早期创新者，恰是这个真正探索和塑造 Vision Pro 产品的用户。
@@ -75,9 +76,17 @@ Innovators/创新者, Early Adopters/早期接受者, Early Majority/早期大�
 
 也许，上述这些也许都很无聊，新的开发者能开发出新的场景。
 
-这，都需要早期用户对产品的塑造
+这，都需要早期用户对产品的塑造。
 
 
 #### 给Vision Pro一点时间
 
-还没写完，待补。
+![steve-jobs-ipad](/images/202306/steve-jobs-ipad.jpeg)
+
+所以，回想当年那个iPad发布的时刻，所有人也一脸懵逼在努力构想这玩意除了盖泡面到底能干啥。
+
+现在，对于 Vision Pro 来说，也在经历这样的时刻，也需要跨越从“硬件完成”到“产品完成”的过程。
+
+而对于交互设计师来说，Vision Pro 无疑是一个好的消息，毕竟给沉寂多年的交互载体打开了全新的天地。
+
+那，对 Vision Pro 你有什么期待？要不要投身全新的交互天地，现在上车出国读个交互设计？
