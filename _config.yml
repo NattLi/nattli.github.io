@@ -70,7 +70,7 @@ kramdown:
 
 ##20230623 加的，学换主题
 remote_theme: samarsault/texture
-theme: texture
+#theme: texture
 
 # Set the Sass partials directory, as we're using @imports
 sass:
