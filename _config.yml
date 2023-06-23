@@ -68,6 +68,10 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
+##20230623 加的，学换主题
+remote_theme: samarsault/texture
+theme: texture
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
