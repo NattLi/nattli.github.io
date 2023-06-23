@@ -1,9 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Name of your site (displayed in the header)
 name: Natt Blog
 
@@ -36,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:nattli
+disqus: natt li
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
