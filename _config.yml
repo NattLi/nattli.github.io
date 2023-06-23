@@ -56,7 +56,7 @@ baseurl: ""
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v4.3.2
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -68,19 +68,17 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-##20230623 加的，学换主题
-remote_theme: samarsault/texture
-#theme: texture
+
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :black # You might prefer to minify using :compressed
+  style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - texture
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
