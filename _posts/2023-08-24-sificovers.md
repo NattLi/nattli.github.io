@@ -3,7 +3,7 @@ layout:     post
 title:      [挖坑]科幻的封面与刻板印象
 date:       2023-08-23
 ---
-![space](/images/202308/X.jpg)
+![pic_holder](/images/pic_holder.jpg)
 
 ### 永恒的终结
 
