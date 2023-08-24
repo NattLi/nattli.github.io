@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      [挖坑]科幻的封面与刻板印象
-date:       2023-08-23
+title:      科幻的封面与刻板印象[挖坑]
+date:       2023-08-24
 ---
 ![pic_holder](/images/pic_holder.jpg)
 
