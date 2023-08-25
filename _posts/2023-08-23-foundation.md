@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      时间的套路 - 看银河帝国1·基地随笔
+title:      时间的套路 - 银河帝国1·基地读书随笔
 date:       2023-08-23
 ---
 ![space](/images/202308/space.jpg)
