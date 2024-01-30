@@ -3,7 +3,7 @@ layout:     post
 title:      SOP懂吗？
 date:       2024-01-30
 ---
-![没图](/images/202401/renri.jpg)
+![peoplefuck](/images/202401/renri.jpg)
 
 #### 一个个伟大的个体
 
