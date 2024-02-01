@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Defeating Art: Perhaps Only Art Itself Can Achieve That
+title:      Defeating Art Perhaps Only Art Itself Can Achieve That
 date:       2024-02-01
 ---
 ![defeat art](/images/202402/eng-defeat-art.jpg)
@@ -23,7 +23,7 @@ Returning to the video's opening statement, "Defeating art, perhaps only art its
 
 ---
 
-[![Video Version](/images/202402/eng-defeat-art.jpg)](https://youtu.be/VoH6EhX_EM0 "Video Version")
+Video Version Here: https://youtu.be/VoH6EhX_EM0
 
 
 end.
