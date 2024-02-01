@@ -23,7 +23,7 @@ Returning to the video's opening statement, "Defeating art, perhaps only art its
 
 ---
 
-Video Version Here: https://youtu.be/VoH6EhX_EM0
+Video Version Here: [YouTube Video](https://youtu.be/VoH6EhX_EM0)
 
 
 end.
