@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Defeating Art Perhaps Only Art Itself Can Achieve That
+title:      Defeating Art, Perhaps Only Art Itself Can Achieve That
 date:       2024-02-01
 ---
 ![defeat art](/images/202402/eng-defeat-art.jpg)
