@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      很多直觉的事情，并非自然
-date:       2024-04-16
+date:       2024-06-11
 ---
 ![node](/images/pic_holder.jpg)
 
