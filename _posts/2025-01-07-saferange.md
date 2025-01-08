@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      东北行记 2 · 中庸中年
+title:      东北行记 2 · 零熵中年
 date:       2025-01-07
 ---
 ![没图](/images/pic_holder.jpg)
