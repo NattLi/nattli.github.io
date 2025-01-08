@@ -3,7 +3,7 @@ layout:     post
 title:      东北行记 2 · 零熵中年
 date:       2025-01-07
 ---
-![没图](/images/pic_holder.jpg)
+![鞍山火锅](/images/202501/midagehotpot.jpg)
 
 
 这篇行记，不聊行，聊聊人。
