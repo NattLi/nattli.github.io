@@ -16,7 +16,7 @@ permalink: /about/
 
 这里是纯写字的地方，基本上不会放图，也不会做什么版式的考究工作，后续还是会在这里写完后同步到[主blog](https://blog.natt.cc)中。
 
-![联系我](/images/mail.png)  
+![联系我](/images/gmail.jpg)  
 
 ### 感谢
 
