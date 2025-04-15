@@ -1,11 +1,11 @@
 # Site settings
-title: Tities and Beer
-SEOTitle: Tities and Beer
-header-img: img/layout/tag-bg.png
+title: Natt Blog
+SEOTitle: Natt Blog
+header-img: img/layout/nattblog_20250415.png
 email:
-description: "一个畏惧强权的nobody的匿名小博客，不设受众，为记录自己生活而写。"
+description: "Natt用Markdown写字的地方"
 keyword: "匿名,Blog"
-url: "https://ttnb.one"              # your host, for absolute URL
+url: "https://words.natt.cc"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
