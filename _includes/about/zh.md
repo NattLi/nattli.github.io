@@ -1,11 +1,19 @@
+> Natt's typing place.
 
-> 人生苦短，TTNB.
+This is where Natt types, hosted on GitHub Pages.
 
-TTNB是某个生活中C国的普通人，只想保持记录自己的脑子进行思考，但怹老人家在位时，恐秋后算账太平不保，所以必须搞一个匿名的小站来做记录和写作了。
+Actually, my [main blog](https://blog.natt.cc) is a self-hosted WordPress blog, which far surpasses this place in terms of exquisiteness and the amount of content.
 
+However, after accidentally encountering Markdown syntax, I was deeply impressed by its simplicity, ease of use, and clear logic. Moreover, opening an editor and writing something slightly edgy under Markdown, then committing and pushing it to GitHub, feels much better than typing potentially risky text in Shimo Docs.
 
-为什么是TTNB. TTNB 指的是 Tities and Beer, 钢铁直男眼中的生活快乐来源，也代表了一种洒脱与率真，直面本能的心态。
+Thus, this place came into being.
 
-所以，既然要匿名，何不匿名成一个自己向往的那个狂野与直接的样子呢。
+### Explanation
 
-人生苦短，TTNB.
+This is purely a place for writing. I will basically not include images or do any elaborate formatting. Later, I will still synchronize the content written here to my [main blog](https://blog.natt.cc).
+
+### Acknowledgements
+
+As a designer who stumbled into GitHub, I am deeply shocked by the open-source culture of GitHub.
+
+Long live open source!
