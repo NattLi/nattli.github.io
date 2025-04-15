@@ -16,6 +16,8 @@ permalink: /about/
 
 这里是纯写字的地方，基本上不会放图，也不会做什么版式的考究工作，后续还是会在这里写完后同步到[主blog](https://blog.natt.cc)中。
 
+![联系我](/image/202504/mail.png)  
+
 ### 感谢
 
 作为一个误入github的设计师，深受github开源文化的震撼
