@@ -1,19 +1,21 @@
-> Natt's typing place.
+> Natt用来打字的地方.
 
-This is where Natt types, hosted on GitHub Pages.
+这里是Natt用来打字的地方，托管在github pages.
 
-Actually, my [main blog](https://blog.natt.cc) is a self-hosted WordPress blog, which far surpasses this place in terms of exquisiteness and the amount of content.
+其实我的[主blog](https://blog.natt.cc)是一个 self-hosted wordpress blog, 精美程度和内容的数量上远超于这里。
 
-However, after accidentally encountering Markdown syntax, I was deeply impressed by its simplicity, ease of use, and clear logic. Moreover, opening an editor and writing something slightly edgy under Markdown, then committing and pushing it to GitHub, feels much better than typing potentially risky text in Shimo Docs.
+但一不小心接触markdown语法后，就被其简单好用逻辑清晰所打动，并且，打开 editor 在markdown 下写一些略微有那么点尺度的东西 commit push 到github上，远比在石墨文档上敲下生死未卜的文字更好。
 
-Thus, this place came into being.
+于是，就有了这个地方。
 
-### Explanation
+### 说明
 
-This is purely a place for writing. I will basically not include images or do any elaborate formatting. Later, I will still synchronize the content written here to my [main blog](https://blog.natt.cc).
+这里是纯写字的地方，基本上不会放图，也不会做什么版式的考究工作，后续还是会在这里写完后同步到[主blog](https://blog.natt.cc)中。
 
-### Acknowledgements
+### 感谢
 
-As a designer who stumbled into GitHub, I am deeply shocked by the open-source culture of GitHub.
+作为一个误入github的设计师，深受github开源文化的震撼
 
-Long live open source!
+
+
+开源万岁
