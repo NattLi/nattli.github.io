@@ -1,4 +1,4 @@
-> Natt用来打字的地方.
+> Natt用Markdown打字的地方.
 
 这里是Natt用来打字的地方，托管在github pages.
 

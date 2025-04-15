@@ -1,4 +1,4 @@
-> Natt's typing place.
+> Natt's markdown typing place.
 
 This is where Natt types, hosted on GitHub Pages.
 
