@@ -1,7 +1,7 @@
 # Site settings
 title: Natt Blog
 SEOTitle: Natt Blog
-header-img: img/layout/nattblog_20250415.png
+header-img: images/layout/nattblog_20250415.png
 email:
 description: "Natt用Markdown写字的地方"
 keyword: "匿名,Blog"
