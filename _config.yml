@@ -1,7 +1,7 @@
 # Site settings
 title: Natt Blog
 SEOTitle: Natt Blog
-header-img: images/layout/nattblog_20250415.png
+header-img: images/layout/bridge-bw.jpg
 email:
 description: "Natt用Markdown写字的地方"
 keyword: "匿名,Blog"
@@ -68,7 +68,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Life is too short，grab titties and beer"
-sidebar-avatar: /img/avatar-ttnb.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /images/avatar-ttnb.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
