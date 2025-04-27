@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      关于余华的一点点想法
+title:      虚伪的作品 有感
 date:       2025-04-27
 ---
 ![阅读有益身心健康](/images/202504/shenxinjiankang.jpg)
