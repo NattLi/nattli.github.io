@@ -3,7 +3,7 @@ layout:     post
 title:      关于余华的一点点想法
 date:       2025-04-27
 ---
-![浮生六记](/images/202504/shenxinjiankang.jpg)
+![阅读有益身心健康](/images/202504/shenxinjiankang.jpg)
 
 
 夜读余华《阅读有益身心健康》这一随笔集，寻得些许点感悟，怕它溜走，草草记录两笔。
