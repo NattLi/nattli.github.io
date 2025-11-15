@@ -4,7 +4,8 @@ title: About Natt Blog
 permalink: /about/
 ---
 
-![LOGO](/images/eimi-nattblog-full.jpg)
+![LOGO](/images/eimi-nattblog-full.jpg)  
+↑图片AI生成，Eimi举着啤酒杯  
 
 这里是Natt用来打字的地方，托管在github pages.
 
