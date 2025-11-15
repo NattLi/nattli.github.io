@@ -4,6 +4,8 @@ title: About Natt Blog
 permalink: /about/
 ---
 
+![LOGO](/images/eimi-nattblog-full.jpg)
+
 这里是Natt用来打字的地方，托管在github pages.
 
 其实我的[主blog](https://blog.natt.cc)是一个 self-hosted wordpress blog, 精美程度和内容的数量上远超于这里。
