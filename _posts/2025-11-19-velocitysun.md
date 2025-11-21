@@ -3,6 +3,7 @@ layout:     post
 title:      两平方米的奥尔特云
 date:       2025-11-19
 ---
+![奥尔特星云](/images/202511/oort.jpg)
 
 #### 01
 
