@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      未完成·velocity篇
-date:       2025-11-05
+date:       2025-11-19
 ---
 
 #### 01
