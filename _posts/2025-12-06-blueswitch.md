@@ -55,7 +55,7 @@ date:       2025-12-06
 设定：
 
 竞优派,熵减演化主义,EON,Evolutionary Optimization Network,演化优化网络  
-统筹派,稳态整体主义,CORE,Coordinated Redundancy Entity,协同冗余（或韧性）实体  
+统筹派,稳态整体主义,CORE,Coordinated Redundancy Entity,协同冗余实体  
 
 ---
 # 以下正文
