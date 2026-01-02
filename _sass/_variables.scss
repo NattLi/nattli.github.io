@@ -3,31 +3,21 @@
 // VARIABLES
 //
 
-// Modern Colors (Premium Minimal)
-$primary-color: #111111;    // Deep black for headings
-$text-color: #333333;       // Soft black for body
-$secondary-text: #666666;   // Grey for meta/dates
-$accent-color: #0066cc;     // Refined blue for links
-$background-color: #ffffff; // Pure white
-$border-color: #eaeaea;     // Light grey for borders
-$code-bg: #f5f5f7;          // Light grey for code blocks
+// Colors
+$blue: #4183C4;
 
-// Deprecated but kept for compatibility (mapped to new)
-$blue: $accent-color;
-$black: $primary-color;
-$darkerGray: $primary-color;
-$darkGray: $text-color;
-$gray: $secondary-text;
-$lightGray: $border-color;
-$white: $background-color;
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
 
 // Font stacks
-$sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-$serif: "Merriweather", Georgia, serif;
-$monospace: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-
-$body-font: $sans-serif;
-$heading-font: $sans-serif;
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
